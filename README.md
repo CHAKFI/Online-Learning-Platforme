@@ -9,7 +9,7 @@ E-Learning platform to provide online education.
 
 
 
-##Access Type:
+## Access Type:
 
 - **Administrator access.**
 - **Teacher access.**
