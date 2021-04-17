@@ -5,4 +5,11 @@
 
  ## Descreption:
 
-Creating school platform to provide online study
+E-Learning platform to provide online education.
+
+
+###Access Type:
+
+- **Administrator access.**
+- **Teacher access.**
+- **Student access.**
