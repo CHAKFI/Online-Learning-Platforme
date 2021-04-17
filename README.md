@@ -14,3 +14,14 @@ E-Learning platform to provide online education.
 - **Administrator access.**
 - **Teacher access.**
 - **Student access.**
+
+
+## Interfaces & Operations:
+
+- **Authentification.**
+- **Creating account with grant options.**
+- **Add class.**
+- **Assigning teacher/student to class.**
+- **Add rules.**
+- **Add quizzes and exams.**
+- **Activation of an online work session.**
