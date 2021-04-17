@@ -24,4 +24,4 @@ E-Learning platform to provide online education.
 - **Assigning teacher/student to class.**
 - **Add rules.**
 - **Add quizzes and exams.**
-- **Activation of an online work session.**
+- **Activate online work session.**
