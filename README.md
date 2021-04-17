@@ -5,7 +5,7 @@
 
  ## Descreption:
 
--E-Learning platform to provide online education.
+E-Learning platform to provide online education.
 
 
 
